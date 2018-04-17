@@ -1,0 +1,30 @@
+﻿{
+	"name": "New project",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"viewport-width": 1500,
+	"viewport-height": 720,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "244",
+	"used-plugins": [
+		"Button",
+		"Mouse",
+		"Particles",
+		"Sprite",
+		"Text",
+		"TextBox",
+		"TiledBg",
+		"Touch",
+		"progressbar"
+	],
+	"used-behaviors": [
+		"Flash",
+		"Physics",
+		"destroy",
+		"scrollto"
+	]
+}
