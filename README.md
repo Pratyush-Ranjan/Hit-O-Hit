@@ -1,2 +1,2 @@
 # Hit-O-Hit
-A sort of game like angry birds
+A game sort of like angry birds (shooting red bird on green one).
